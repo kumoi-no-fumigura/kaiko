@@ -1,6 +1,6 @@
 name: 訳の誤り
 description: 現代語訳の誤りや、よりよい訳を知らせる
-title: "[訳] 歌意考 "
+title: "[訳] 歌意考（賀茂真淵全集本） "
 labels: ["訳"]
 body:
   - type: input
